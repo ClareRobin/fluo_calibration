@@ -1,6 +1,6 @@
 # Plate Reader Fluorescence Calibration
 
-R package to generate conversion factors (cfs) for plate reader data, and to load specific cfs for specific experimental set up. 
+R package to generate conversion factors (cfs) for plate reader data, and to load specific cfs for specific plate reader experimental set up. 
 
 Fluorescent cfs are in units of MEFL/a.u.
 Absorbance cfs are in units of Abs/particle
