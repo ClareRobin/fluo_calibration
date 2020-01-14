@@ -18,5 +18,5 @@ get_cfs: creates csv file of specific cfs for specified experimental set-up base
 To generate cfs (example data is located in the example folder):
   1. generate_cfs ('example/calibration_20191218_film.csv', 'example/calibration_20191218_nofilm.csv', 'example/calibration_plate_layout.csv', '2019_12_18') 
 
-To extract specific cfs for a specific experiment (ex. gain=87, Abs=700, lid=no film)
+To extract specific cfs for a specific experiment (ex.lid=no film, gain=87, Abs=700)
   1. get_cf ('nofilm', 87, 700, 'cf_results/cfs_generated_2019_12_18.csv')
